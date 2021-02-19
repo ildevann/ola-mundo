@@ -1,2 +1,2 @@
-# ola mundo
- primeiro repositorio versionado do cursso de get e hube
+# olá! mundo.
+ primeiro repositorio versionado do cursso de git e hube
